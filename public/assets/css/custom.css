@@ -1,0 +1,11 @@
+.PositionCartCount{
+    position:relative;
+}
+
+.PositionCartSpan{
+
+    position:absolute;
+    left:86%;
+    bottom:79%!important;
+
+}

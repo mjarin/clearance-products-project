@@ -1,0 +1,2 @@
+[25-Sep-2022 09:04:03 UTC] PHP Warning:  require(/home/easydokan/public_html/bdclearence/public/../bdclearence/vendor/autoload.php): failed to open stream: No such file or directory in /home/easydokan/public_html/bdclearence/public/index.php on line 34
+[25-Sep-2022 09:04:03 UTC] PHP Fatal error:  require(): Failed opening required '/home/easydokan/public_html/bdclearence/public/../bdclearence/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/easydokan/public_html/bdclearence/public/index.php on line 34
